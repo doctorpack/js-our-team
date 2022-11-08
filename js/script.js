@@ -1,6 +1,5 @@
 
 let container = document.querySelector(".team-container");
-let button = document.querySelector("#addMemberButton");
 // creo un array di oggetti che contiene NamedNodeMap,ruolo e immagine
 let teamMembers = [
     {
